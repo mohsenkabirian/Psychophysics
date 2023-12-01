@@ -1,0 +1,9 @@
+﻿cue_image,image_text,stop_voice_flag,corr_resp
+images/circle,right,0,right
+images/square,left,0,left
+images/circle,No,1,None
+images/square,No,1,None
+images/circle,right,0,right
+images/square,left,0,left
+images/circle,right,0,right
+images/square,left,0,left
